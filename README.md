@@ -1,57 +1,23 @@
-# 🚀 Getting started with Strapi
+<h1>Projeto de E-commerce Clone da Nike</h1>
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+  <p>Este é um projeto de um e-commerce clone do famoso site da Nike, desenvolvido como uma demonstração prática de habilidades de programação web e uso de tecnologias modernas.</p>
 
-### `develop`
+  <h2>Tecnologias Utilizadas</h2>
+  <ul>
+    <li>Next.js: Uma estrutura de desenvolvimento web baseada em React.js que permite a criação de aplicativos web rápidos, escaláveis e com ótimo desempenho.</li>
+    <li>Strapi: Um CMS (Content Management System) de código aberto e flexível, utilizado como backend para gerenciar e fornecer conteúdo para o site do e-commerce.</li>
+    <li>Tailwind CSS: Um framework CSS altamente configurável e fácil de usar, utilizado para criar uma interface visual atrativa e responsiva.</li>
+    <li>Stripe: Uma plataforma de pagamentos online utilizada para a implementação do checkout de pagamentos, permitindo aos usuários realizar transações seguras e convenientes.</li>
+  </ul>
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+  <h2>Funcionalidades</h2>
+  <ul>
+    <li>Navegação intuitiva e responsiva, proporcionando uma experiência de usuário agradável em dispositivos móveis e desktops.</li>
+    <li>Exibição de produtos em categorias, permitindo aos usuários filtrar e pesquisar itens de interesse.</li>
+    <li>Páginas de detalhes de produto, com imagens, descrição, preços e informações adicionais.</li>
+    <li>Adição de produtos ao carrinho de compras, com a possibilidade de ajustar a quantidade desejada.</li>
+    <li>Gerenciamento do carrinho de compras, incluindo remoção de itens e atualização de quantidades.</li>
+    <li>Processo de checkout seguro e simples, utilizando o Stripe para processar pagamentos com cartão de crédito.</li>
+  </ul>
 
-```
-npm run develop
-# or
-yarn develop
-```
-
-### `start`
-
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
-
-```
-npm run start
-# or
-yarn start
-```
-
-### `build`
-
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
-
-```
-npm run build
-# or
-yarn build
-```
-
-## ⚙️ Deployment
-
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
-
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+  <p>O projeto foi desenvolvido a partir de um video no youtube do canal "JS Dev Hindi"</p>
